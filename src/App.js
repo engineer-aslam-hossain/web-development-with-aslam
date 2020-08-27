@@ -23,7 +23,7 @@ function App() {
       </p>
       <CourseFee courseAmount={courseAmount} />
 
-      <div>
+      <div className='courseList'>
         {Courses.map(course => (
           <Course
             key={course.id}

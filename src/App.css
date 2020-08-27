@@ -21,3 +21,7 @@ p {
   font-weight: 600;
   line-height: 25px;
 }
+.courseList {
+  display: flex;
+  flex-flow: wrap;
+}
