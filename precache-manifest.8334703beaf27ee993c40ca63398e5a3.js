@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "566d2b3ff94ee793cba7bae286bc544d",
+    "revision": "0909a59af63d9b3ca3e19bf92e4881b5",
     "url": "/web-development-with-aslam/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-development-with-aslam/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "81dc3d9582bd71918027",
-    "url": "/web-development-with-aslam/static/css/main.0e06d57f.chunk.css"
+    "revision": "952c4f356e8b352d69e5",
+    "url": "/web-development-with-aslam/static/css/main.7f0eb311.chunk.css"
   },
   {
     "revision": "aba39d464480a843a842",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-development-with-aslam/static/js/2.e1e62eb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81dc3d9582bd71918027",
-    "url": "/web-development-with-aslam/static/js/main.fe37b5bc.chunk.js"
+    "revision": "952c4f356e8b352d69e5",
+    "url": "/web-development-with-aslam/static/js/main.913d4522.chunk.js"
   },
   {
     "revision": "85c017848a32c72f9339",
