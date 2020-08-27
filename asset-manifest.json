@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-development-with-aslam/static/css/main.0e06d57f.chunk.css",
+    "main.js": "/web-development-with-aslam/static/js/main.fe37b5bc.chunk.js",
+    "main.js.map": "/web-development-with-aslam/static/js/main.fe37b5bc.chunk.js.map",
+    "runtime-main.js": "/web-development-with-aslam/static/js/runtime-main.4596e68b.js",
+    "runtime-main.js.map": "/web-development-with-aslam/static/js/runtime-main.4596e68b.js.map",
+    "static/css/2.11829350.chunk.css": "/web-development-with-aslam/static/css/2.11829350.chunk.css",
+    "static/js/2.e1e62eb2.chunk.js": "/web-development-with-aslam/static/js/2.e1e62eb2.chunk.js",
+    "static/js/2.e1e62eb2.chunk.js.map": "/web-development-with-aslam/static/js/2.e1e62eb2.chunk.js.map",
+    "index.html": "/web-development-with-aslam/index.html",
+    "precache-manifest.f5925493a0ad4ccdd3a9d9990607b282.js": "/web-development-with-aslam/precache-manifest.f5925493a0ad4ccdd3a9d9990607b282.js",
+    "service-worker.js": "/web-development-with-aslam/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/web-development-with-aslam/static/css/2.11829350.chunk.css.map",
+    "static/css/main.0e06d57f.chunk.css.map": "/web-development-with-aslam/static/css/main.0e06d57f.chunk.css.map",
+    "static/js/2.e1e62eb2.chunk.js.LICENSE.txt": "/web-development-with-aslam/static/js/2.e1e62eb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4596e68b.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e1e62eb2.chunk.js",
+    "static/css/main.0e06d57f.chunk.css",
+    "static/js/main.fe37b5bc.chunk.js"
+  ]
+}
